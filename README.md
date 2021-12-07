@@ -44,3 +44,7 @@ Wer kein Java oder Maven zur Hand hat, kann den Build auch einfach Docker überl
 docker build .
 ```
 
+## Code einreichen
+
+Wer will kann sein Refactoring als Pullrequest wieder einreichen. Anleitung dazu [hier](https://github.com/firstcontributions/first-contributions).
+
